@@ -1,16 +1,20 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpherJang&show_icons=true&theme=radical)
-<!--
-**AlpherJang/AlpherJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+- Hello, I'm AlpherJang 👋
+- ![AlpherJang](https://komarev.com/ghpvc/?username=AlpherJang) ![AlpherJang](https://visitor-badge.glitch.me/badge?page_id=AlpherJang.profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tags
+
+- 🔭 _Searching Engine_ developer
+- 🌱 _println_ debugger
+- 👯 _never takes two_ follower
+- 🤔 _why does it run_ creator
+- 💬 _Hello World!_ tester
+- 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/EvansJang) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alphejangs@gmail.com)](mailto:alphejangs@gmail.com)
+- ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+
+## Some Statistics About Me
+
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=AlpherJang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpherJang&layout=compact&exclude_repo=AlpherJang.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
