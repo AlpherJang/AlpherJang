@@ -15,6 +15,7 @@
 - 🔭 _Backend Engine_ developer
 - 🌱 _println_ debugger
 - 💬 _Hello World!_ tester
+- 📘 _[top-interview-150](https://leetcodebook-1.gitbook.io/top-interview-150/)_ author
 - 📫 [![Twitter Badge](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=)](https://twitter.com/EvansJang) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alphejangs@gmail.com)](mailto:alphejangs@gmail.com)
 - ⚡ ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Jetbrains Toolbox](https://img.shields.io/badge/Jetbrains-Toolbox-007ACC?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
